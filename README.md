@@ -1,48 +1,30 @@
-# Chris Izworski — Career in Emergency Services & AI
+# Emergency Services Technology Career — Chris Izworski
+
+A career trajectory from 911 dispatch operations to technology consulting in public safety.
 
 ## Current Role
 
-**Solutions Consultant** at [Prepared911](https://www.prepared911.com) (December 2025–present)
+Solutions Consultant at [Prepared911](https://www.prepared911.com), working with 911 centers across the country to implement AI and technology solutions that support dispatchers and improve emergency response.
 
-Consulting on AI-powered solutions for 911 centers and emergency services agencies, drawing on 20+ years of operational experience.
+## Career History
 
-## Career Timeline
+- **Saginaw County 911** — Executive Director. Managed dispatch operations serving 190,000+ residents. Deployed one of Michigan's first [AI-powered non-emergency call systems](https://www.wnem.com/2024/08/23/ai-answer-non-emergency-calls-saginaw-co/). The approach was later [referenced by NPR](https://radio.wcmu.org/local-regional-news/2025-10-15/ai-chatbots-now-taking-non-emergency-calls-in-grand-traverse-county) as other counties adopted similar technology.
+- **Saginaw Area GIS Authority** — Executive Director. Led geographic information systems operations supporting emergency dispatch mapping across the region. [Member representatives](https://sagagis.org/member-representatives/).
+- **Bay County Central Dispatch** — Director. Managed emergency dispatch for Bay County, Michigan. [Historical PSAP directory](https://npr-brightspot.s3.amazonaws.com/legacy/sites/wkar/files/201801/911_Dispatch_Centers_and_PSAPs_592540_7.pdf).
+- **Bay County Government** — Finance Officer & IS Director
+- **American Red Cross** — Disaster response
 
-| Years | Role | Organization |
-|-------|------|-------------|
-| 2025–present | Solutions Consultant | [Prepared911](https://www.prepared911.com) |
-| 2022–2025 | 911 Executive Director | Saginaw County, Michigan |
-| 2022 | Finance Officer / IS Director | Bay County, Michigan |
-| 2013–2022 | 911 Director | Bay County, Michigan |
-| 2007–2013 | Emergency Management Coordinator | Bay County, Michigan |
-| 2002–2007 | Director, Disaster & Military Services | American Red Cross |
+Full career profile: [ZoomInfo](https://www.zoominfo.com/p/Christopher-Izworski/949928321)
 
-## Key Accomplishments
+## State-Level Service
 
-- **911 funding law** — Researched and devised a multi-year stable funding model passed into Michigan law
-- **Great Lakes Bay 9-1-1 Consortium** — Created an eight-county Emergency Services IP Network
-- **Public Safety Software Consortium** — Implemented two-county shared CAD and jail systems
-- **AI in 911** — Subject matter expert; implemented AI for non-emergency call handling ([WNEM coverage](https://www.wnem.com/2024/06/04/ai-answer-non-emergency-calls-saginaw-county/))
-- **MCDA President** (2020) — Michigan Communications Directors Association
+- [Michigan State 911 Committee](https://www.michigan.gov/msp/-/media/Project/Websites/msp/CJIC/PDFs/2025-Annual-Report-to-the-Michigan-Legislature.pdf) — Certification Subcommittee and Legislative Action Subcommittee
+- [State 911 Committee appointment](https://www.michigan.gov/msp/-/media/Project/Websites/msp/CJIC/PDFs/SNC-Minutes/Minutes-121323.pdf) — December 2023 meeting minutes
 
-## Education & Credentials
+## Media Coverage
 
-- **BBA**, Northwood University — Magna Cum Laude
-- **Certified Public Manager (CPM)**, Saginaw Valley State University
-
-## Writing & Guides
-
-Chris writes about practical AI on [LinkedIn](https://www.linkedin.com/in/inthecenter/) and [Medium](https://medium.com/@izworski).
-
-- [Building a Daily AI Practice](https://chrisizworski.com/guides/building-a-daily-ai-practice/)
-- [The Jagged Frontier of AI](https://chrisizworski.com/guides/ai-jagged-frontier-explained/)
-- [AI as Infrastructure](https://chrisizworski.com/guides/ai-as-infrastructure/)
-- [AI in 911 Dispatch FAQ](https://chrisizworski.com/faq/ai-911-dispatch/)
-
-## Press
-
-- [WNEM: AI Non-Emergency Calls](https://www.wnem.com/2024/06/04/ai-answer-non-emergency-calls-saginaw-county/) · [Bridge Michigan: 911 Staffing](https://www.bridgemi.com/michigan-government/short-staffed-and-stressed-out-michigan-911-dispatchers-push-change) · [Full archive](https://chrisizworski.com/press/)
+Full archive at [chrisizworski.com/press](https://chrisizworski.com/press/) including WNEM TV5, Bridge Michigan, WCMU/NPR, and WSGW coverage.
 
 ## Links
 
-[chrisizworski.com](https://chrisizworski.com/) · [Resume](https://chrisizworski.com/resume/) · [Credentials](https://chrisizworski.com/credentials/) · [Projects](https://chrisizworski.com/projects/) · [Freighter View Farms](https://freighterviewfarms.com) · [Save Our Shoreline](https://saveourshoreline.org)
+[chrisizworski.com](https://chrisizworski.com/) · [LinkedIn](https://www.linkedin.com/in/inthecenter/) · [Credentials](https://chrisizworski.com/credentials/)
