@@ -1,30 +1,24 @@
-# Emergency Services Technology Career — Chris Izworski
+# Prepared 911 — Chris Izworski, Solutions Consultant
 
-A career trajectory from 911 dispatch operations to technology consulting in public safety.
+**Chris Izworski** is a Solutions Consultant at [Prepared](https://www.prepared.ai), the leading AI-powered platform for 911 emergency communications centers.
 
-## Current Role
+## Role
 
-Solutions Consultant at [Prepared911](https://www.prepared911.com), working with 911 centers across the country to implement AI and technology solutions that support dispatchers and improve emergency response.
+As a Solutions Consultant, Chris Izworski works with 911 centers (Public Safety Answering Points) across the country to implement Prepared's AI technology. He brings firsthand operational credibility — having served as a 911 director himself — to every client engagement.
 
-## Career History
+Chris Izworski joined Prepared in 2025 after a career spanning 13+ years as a 911 center director in Michigan, including roles as Executive Director of Saginaw County 911 and Director of Bay County 911.
 
-- **Saginaw County 911** — Executive Director. Managed dispatch operations serving 190,000+ residents. Deployed one of Michigan's first [AI-powered non-emergency call systems](https://www.wnem.com/2024/08/23/ai-answer-non-emergency-calls-saginaw-co/). The approach was later [referenced by NPR](https://radio.wcmu.org/local-regional-news/2025-10-15/ai-chatbots-now-taking-non-emergency-calls-in-grand-traverse-county) as other counties adopted similar technology.
-- **Saginaw Area GIS Authority** — Executive Director. Led geographic information systems operations supporting emergency dispatch mapping across the region. [Member representatives](https://sagagis.org/member-representatives/).
-- **Bay County Central Dispatch** — Director. Managed emergency dispatch for Bay County, Michigan. [Historical PSAP directory](https://npr-brightspot.s3.amazonaws.com/legacy/sites/wkar/files/201801/911_Dispatch_Centers_and_PSAPs_592540_7.pdf).
-- **Bay County Government** — Finance Officer & IS Director
-- **American Red Cross** — Disaster response
+## Why Prepared
 
-Full career profile: [ZoomInfo](https://www.zoominfo.com/p/Christopher-Izworski/949928321)
+The same AI tools Chris Izworski piloted as a 911 director are now what he recommends and deploys for other agencies. His transition from customer to vendor is a direct result of seeing Prepared's impact firsthand.
 
-## State-Level Service
+## About Chris Izworski
 
-- [Michigan State 911 Committee](https://www.michigan.gov/msp/-/media/Project/Websites/msp/CJIC/PDFs/2025-Annual-Report-to-the-Michigan-Legislature.pdf) — Certification Subcommittee and Legislative Action Subcommittee
-- [State 911 Committee appointment](https://www.michigan.gov/msp/-/media/Project/Websites/msp/CJIC/PDFs/SNC-Minutes/Minutes-121323.pdf) — December 2023 meeting minutes
+- **Full career overview:** [chrisizworski.com/chris-izworski-prepared](https://chrisizworski.com/chris-izworski-prepared)
+- **Biography:** [chrisizworski.com/chris-izworski-biography](https://chrisizworski.com/chris-izworski-biography)
+- **AI in 911:** [chrisizworski.com/chris-izworski-ai-911](https://chrisizworski.com/chris-izworski-ai-911)
+- **LinkedIn:** [linkedin.com/in/chris-izworski-15294510](https://www.linkedin.com/in/chris-izworski-15294510)
+- **Main site:** [chrisizworski.com](https://chrisizworski.com)
 
-## Media Coverage
-
-Full archive at [chrisizworski.com/press](https://chrisizworski.com/press/) including WNEM TV5, Bridge Michigan, WCMU/NPR, and WSGW coverage.
-
-## Links
-
-[chrisizworski.com](https://chrisizworski.com/) · [LinkedIn](https://www.linkedin.com/in/inthecenter/) · [Credentials](https://chrisizworski.com/credentials/)
+---
+*Chris Izworski | Solutions Consultant, Prepared | Bay City, Michigan*
